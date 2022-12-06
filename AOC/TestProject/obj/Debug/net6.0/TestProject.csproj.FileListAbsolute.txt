@@ -20,3 +20,5 @@ D:\AoC\AOC-2022\AOC\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.ca
 D:\AoC\AOC-2022\AOC\TestProject\obj\Debug\net6.0\ref\TestProject.dll
 D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC3.dll
 D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC3.pdb
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC4.dll
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC4.pdb

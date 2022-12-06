@@ -10,7 +10,8 @@
         "dependencies": {
           "AOC1": "1.0.0",
           "AOC2": "1.0.0",
-          "AOC3": "1.0.0"
+          "AOC3": "1.0.0",
+          "AOC4": "1.0.0"
         },
         "runtime": {
           "TestProject.dll": {}
@@ -29,6 +30,11 @@
       "AOC3/1.0.0": {
         "runtime": {
           "AOC3.dll": {}
+        }
+      },
+      "AOC4/1.0.0": {
+        "runtime": {
+          "AOC4.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "sha512": ""
     },
     "AOC3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOC4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

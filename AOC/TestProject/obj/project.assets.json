@@ -31,6 +31,16 @@
         "runtime": {
           "bin/placeholder/AOC3.dll": {}
         }
+      },
+      "AOC4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AOC4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AOC4.dll": {}
+        }
       }
     }
   },
@@ -49,13 +59,19 @@
       "type": "project",
       "path": "../AOC3/AOC3.csproj",
       "msbuildProject": "../AOC3/AOC3.csproj"
+    },
+    "AOC4/1.0.0": {
+      "type": "project",
+      "path": "../AOC4/AOC4.csproj",
+      "msbuildProject": "../AOC4/AOC4.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AOC1 >= 1.0.0",
       "AOC2 >= 1.0.0",
-      "AOC3 >= 1.0.0"
+      "AOC3 >= 1.0.0",
+      "AOC4 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -93,6 +109,9 @@
             },
             "D:\\AoC\\AOC-2022\\AOC\\AOC3\\AOC3.csproj": {
               "projectPath": "D:\\AoC\\AOC-2022\\AOC\\AOC3\\AOC3.csproj"
+            },
+            "D:\\AoC\\AOC-2022\\AOC\\AOC4\\AOC4.csproj": {
+              "projectPath": "D:\\AoC\\AOC-2022\\AOC\\AOC4\\AOC4.csproj"
             }
           }
         }
