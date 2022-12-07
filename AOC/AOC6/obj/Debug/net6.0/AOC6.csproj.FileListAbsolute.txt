@@ -1,0 +1,12 @@
+D:\AoC\AOC-2022\AOC\AOC6\bin\Debug\net6.0\AOC6.deps.json
+D:\AoC\AOC-2022\AOC\AOC6\bin\Debug\net6.0\AOC6.dll
+D:\AoC\AOC-2022\AOC\AOC6\bin\Debug\net6.0\AOC6.pdb
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.csproj.AssemblyReference.cache
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.GeneratedMSBuildEditorConfig.editorconfig
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.AssemblyInfoInputs.cache
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.AssemblyInfo.cs
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.csproj.CoreCompileInputs.cache
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.dll
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\refint\AOC6.dll
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\AOC6.pdb
+D:\AoC\AOC-2022\AOC\AOC6\obj\Debug\net6.0\ref\AOC6.dll

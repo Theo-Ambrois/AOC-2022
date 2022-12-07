@@ -22,3 +22,7 @@ D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC3.dll
 D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC3.pdb
 D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC4.dll
 D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC4.pdb
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC5.dll
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC5.pdb
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC6.dll
+D:\AoC\AOC-2022\AOC\TestProject\bin\Debug\net6.0\AOC6.pdb

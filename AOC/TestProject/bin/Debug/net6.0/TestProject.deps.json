@@ -11,7 +11,9 @@
           "AOC1": "1.0.0",
           "AOC2": "1.0.0",
           "AOC3": "1.0.0",
-          "AOC4": "1.0.0"
+          "AOC4": "1.0.0",
+          "AOC5": "1.0.0",
+          "AOC6": "1.0.0"
         },
         "runtime": {
           "TestProject.dll": {}
@@ -35,6 +37,16 @@
       "AOC4/1.0.0": {
         "runtime": {
           "AOC4.dll": {}
+        }
+      },
+      "AOC5/1.0.0": {
+        "runtime": {
+          "AOC5.dll": {}
+        }
+      },
+      "AOC6/1.0.0": {
+        "runtime": {
+          "AOC6.dll": {}
         }
       }
     }
@@ -61,6 +73,16 @@
       "sha512": ""
     },
     "AOC4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOC5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AOC6/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
